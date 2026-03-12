@@ -1,5 +1,12 @@
 # NotiMirror Release Note
 
+## v1.0.4 (2026-03-13)
+
+### Bug Fixes
+- Minor bug fixes
+
+---
+
 ## v1.0.3 (2026-03-06)
 
 ### Features
